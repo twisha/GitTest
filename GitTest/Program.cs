@@ -37,6 +37,7 @@ namespace GitTest
         {
             Console.WriteLine("TestFeature2");
             Console.WriteLine("TestCheckIn2");
+            Console.WriteLine("TestCheckIn3");
         }
     }
 }
