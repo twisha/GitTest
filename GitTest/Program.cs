@@ -15,6 +15,7 @@ namespace GitTest
             Console.WriteLine("Hello World!");
 
             Test1();
+            Test2();
             Console.ReadKey();
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
@@ -24,6 +25,11 @@ namespace GitTest
         {
             Console.WriteLine("Test1");
             Console.WriteLine("Test CheckIn 1");
+        }
+
+        static void Test2()
+        {
+            Console.WriteLine("Test2");
         }
     }
 }
